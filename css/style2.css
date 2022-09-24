@@ -1,4 +1,9 @@
-*/ .mdl-layout__header-row {
+/* Created by: liya getachew
+*Created on: Sep 22 2020
+*This file contains the CSS for html
+*/
+
+.mdl-layout__header-row {
   align-items: center;
   justify-content: center;
 }
